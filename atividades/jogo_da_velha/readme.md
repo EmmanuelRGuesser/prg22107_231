@@ -10,5 +10,9 @@
 
 ## Diagrama de classes
 
+![image](https://user-images.githubusercontent.com/88853327/225476283-003fe138-1dc9-406e-8e87-9c9a9db7cfc2.png)
+
 
 ## Diagrama de sequência
+
+![image](https://user-images.githubusercontent.com/88853327/225476208-61d453ce-8856-4888-86cd-7164cd7cf76c.png)
